@@ -6,12 +6,12 @@
 
 ## About Me
 
-🎓 Computer Science graduate & Silver Medalist from DHA Suffa University.
-🏢 Currently working at Geeks of Kolachi as a Full Stack Engineer.
-💡 Business-minded developer who thinks in products, not just code.
-🚀 Passionate about startups, fintech, and building things that actually matter.
-⚡ Obsessed with scalable web applications, clean architecture, and modern UI/UX.
-🌙 Night owl who does his best thinking after midnight.
+- 🎓 Computer Science graduate & Silver Medalist from DHA Suffa University.
+- 🏢 Currently working at Geeks of Kolachi as a Full Stack Engineer.
+- 💡 Business-minded developer who thinks in products, not just code.
+- 🚀 Passionate about startups, fintech, and building things that actually matter.
+- ⚡ Obsessed with scalable web applications, clean architecture, and modern UI/UX.
+- 🌙 Night owl who does his best thinking after midnight.
 
 ## 🛠 Tech Stack
 
