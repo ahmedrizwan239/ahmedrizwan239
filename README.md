@@ -19,11 +19,11 @@
 - Next JS
 - TypeScript
 - NestJS
-- GraphQL
 - Tailwind CSS
 - Shadcn UI
 - Shopify & Liquid
-- Docker
+- Strapi
+- GraphQL
 
 ## Get in Touch
 
