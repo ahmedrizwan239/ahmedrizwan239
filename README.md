@@ -1,13 +1,26 @@
 ### Hi there 👋
 
-**ahmedrizwan239/ahmedrizwan239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Ahmed Rizwan
 
-Here are some ideas to get you started:
+💻 Full Stack Developer specializing in React JS, Next JS, NestJS, TypeScript and Shopify Expert.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+🎓 Computer Science graduate & Silver Medalist from DHA Suffa University.  
+🏢 Currently working at Geeks of Kolachi as a Full Stack Engineer.
+
+⚡ Passionate about scalable web applications, clean architecture, fintech, and modern UI/UX.
+
+## 🛠 Tech Stack
+
+- React JS
+- Next JS
+- TypeScript
+- NestJS
+- GraphQL
+- Tailwind CSS
+- Shadcn UI
+- Shopify & Liquid
+- Docker
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ahmedrizwan239/
